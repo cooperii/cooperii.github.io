@@ -12,7 +12,7 @@ author: cooper french
 description: a science blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/shrike.jpeg
+avatar: #/images/shrike.jpeg
 
 #
 # Flags below are optional
